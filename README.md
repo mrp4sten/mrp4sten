@@ -4,7 +4,7 @@
 I'am a Jr Developer for more than one year.
 
 IT student since 2016 and next year 2023 I will become an IT Engineer, Full Stack and DevOps Developer, In 2019 I became a Computer Technician At the end of 2021 I became a Senior IT Technician. :calendar:
-My goal is to become a Full Stack vs DevOps developer and I hope at some point to share my experience and passion for technology with the community. :books:
+My goal is to become a Full Stack and DevOps developer and I hope at some point to share my experience and passion for technology with the community. :books:
 
 I currently have experience developing web applications and maintaining web services and applications built with technologies such as Java, JavaScript, NodeJS, MongoDB, Mysql, MSSQL, PostgreSQL, CSS, HTML5, using tools such as SonarQube and Git for CI/CD, Handling Bash Scripting and controlling my working environment with Zsh and Arch Linux. :computer: :penguin:
 </br>
