@@ -1,7 +1,7 @@
 # Hello my name is Mauricio Pastén (MrP4sten) :wave:
 ## :computer: Full Stack Developer, IT Student
 
-I'am a Jr Developer for more than one year.
+I'm a Jr Developer for more than one year.
 
 IT student since 2016 and next year 2023 I will become an IT Engineer, Full Stack and DevOps Developer, In 2019 I became a Computer Technician At the end of 2021 I became a Senior IT Technician. :calendar:
 My goal is to become a Full Stack and DevOps developer and I hope at some point to share my experience and passion for technology with the community. :books:
