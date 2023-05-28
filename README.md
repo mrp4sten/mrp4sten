@@ -79,6 +79,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mrp4sten&show_icons=true&theme=blue-green"> 
  </div>
  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrp4sten&layout=donut&theme=blue-green"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrp4sten&layout=donut&theme=blue-green&langs_count=20"> 
  </div>
 </details>
