@@ -58,9 +58,9 @@
     </samp>
   </summary>
  <div align="center">
-  <p>I'm a Jr Fullstack Developer for more than two years.</p>
+  <p>I'm a Fullstack Developer for more than two years.</p>
   
-  <p>IT student since 2016 and next year 2023 I will become an IT Engineer, Full Stack and DevOps Developer, In 2019 I became a Computer Technician At the end of 2021 I became a Senior IT Technician.📆</p>
+  <p>IT student since 2016 and now I'm an IT Engineer, Full Stack Developer, In 2019 I became a Computer Technician At the end of 2021 I became a Senior IT Technician.📆</p>
   
   <p>My goal is to become a Full Stack Senior Developer and I hope at some point to share my experience and passion for technology with the community.📚<p>
   
