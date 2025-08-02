@@ -58,13 +58,10 @@
     </samp>
   </summary>
  <div align="center">
-  <p>I'm a Fullstack Developer for more than two years.</p>
-  
-  <p>IT student since 2016 and now I'm an IT Engineer, Full Stack Developer, In 2019 I became a Computer Technician At the end of 2021 I became a Senior IT Technician.📆</p>
-  
-  <p>My goal is to become a Full Stack Senior Developer and I hope at some point to share my experience and passion for technology with the community.📚<p>
-  
-  <p>I currently have experience developing web applications and maintaining web services and applications built with technologies such as Java, JavaScript, NodeJS, MongoDB, Mysql, MSSQL, PostgreSQL, CSS, HTML5, using tools such as SonarQube and Git for CI/CD, Handling Bash Scripting and controlling my working environment with Zsh and Arch Linux. 💻🐧<p>
+   <p>IT Engineer and Full Stack Developer with over two years of experience in designing, developing, and maintaining web applications and services. Proficient in both frontend and backend technologies, including Java, JavaScript (React, NodeJS), Spring Boot, HAPI FHIR, and cloud platforms like GCP. Skilled in database management (SQL/NoSQL) and DevOps practices such as CI/CD pipelines, Bash/Python scripting, and monitoring tools (Splunk, Rancher).</p>
+   
+   <p>Passionate about clean code, agile methodologies, and knowledge sharing, with a strong foundation in IT education—from Computer Technician (2019) to Senior IT Technician (2021) and Software Engineering degree (2023). Currently focused on advancing to a Senior Full Stack Developer role while contributing to the tech community through mentorship and open-source collaboration.</p>
+   <p>"Driven by innovation and efficiency, I aim to build scalable solutions and share my expertise to empower others in tech."</p>
  </div>
 
 </details>
