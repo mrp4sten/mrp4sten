@@ -1,43 +1,51 @@
-<h1 align="center">Here MrP4sten 🚀</h1>
+<h1 align="center">🚀 Mauricio Pastén (MrP4sten) 🚀</h1>
 
-<!-- Profile -->
-  <p align="center">
-    <samp>
-      <b>
-        Hello There
-      <br>
-        I'm Mauricio, a Software Engineer, I like Cats 🐈‍⬛ and Mango 🥭, but I don't like Windows 🪟.
-      </b>
-      <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=14&pause=1000&color=7A95C9&center=true&width=435&lines=To+infinity+and+beyond.">
-      <br>
-      <b>
-         ~ Mauricio Pasten ~
-      </b>    </samp>
-  </p>
-<br>
+<p align="center">
+  <samp>
+    <b>Swiss Army Knife Engineer</b> — Full-Stack polyglot (Java/React/Python/NodeJS/Bash/GCP)<br>
+    <b>Turning ambiguity into scalable solutions</b><br>
+  </samp>
+</p>
 
 <!-- contribution snake -->
 <p align="center">
     <img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/1amSimp1e/1amSimp1e/544749532955a2438af7a7934a17731aa0ea1b43/github-contribution-grid-snake.svg" />
 </p>
 
-## Skills
+## 🛠️ Tech Stack
 
-[![Java](https://img.shields.io/badge/Java-fa0202?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![NodeJs](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-cf870c?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=101010)]()
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
-[![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
-[![ArchLinux](https://img.shields.io/badge/ArchLinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=101010)]()
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=101010)]()
+**👨‍💻 Backend**
+[![Java](https://img.shields.io/badge/Java-fa0202?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)]()
+[![NodeJS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-cf870c?style=for-the-badge&logo=python&logoColor=white)]()
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)]()
+
+**🎨 Frontend**
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)]()
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+
+**🗄️ Databases**
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)]()
+
+**☁️ Cloud & DevOps**
+[![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
+[![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)]()
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)]()
+
+**🔧 Tools**
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
+[![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)]()
+[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)]()
+[![Mockito](https://img.shields.io/badge/Mockito-00897B?style=for-the-badge&logo=java&logoColor=white)]()
 
 </br>
 
@@ -51,31 +59,33 @@
 
 </br>
 
-<details>
-  <summary>
-    <samp>
-      <b>&#9776; More about me</b>
-    </samp>
-  </summary>
- <div align="center">
-   <p>IT Engineer and Full Stack Developer with over two years of experience in designing, developing, and maintaining web applications and services. Proficient in both frontend and backend technologies, including Java, JavaScript (React, NodeJS), Spring Boot, HAPI FHIR, and cloud platforms like GCP. Skilled in database management (SQL/NoSQL) and DevOps practices such as CI/CD pipelines, Bash/Python scripting, and monitoring tools (Splunk, Rancher).</p>
-   
-   <p>Passionate about clean code, agile methodologies, and knowledge sharing, with a strong foundation in IT education—from Computer Technician (2019) to Senior IT Technician (2021) and Software Engineering degree (2023). Currently focused on advancing to a Senior Full Stack Developer role while contributing to the tech community through mentorship and open-source collaboration.</p>
-   <p>"Driven by innovation and efficiency, I aim to build scalable solutions and share my expertise to empower others in tech."</p>
- </div>
+<div align="center">
+ <p>
+ <b>“Swiss Army Knife Engineer”</b> — Full-Stack polyglot (Java · React · Python · NodeJS · Bash · GCP).  
+ Elite troubleshooter, turning ambiguity into scalable solutions.  
+ </p>
 
-</details>
+ <p>
+ I don’t just learn technologies — I <b>weaponize them</b>.  
+ Whether it’s debugging critical systems, automating infra, or shipping clean code fast,  
+ I adapt, deliver, and share knowledge along the way.  
+ </p>
 
-<details>
- <summary>
-  <samp>
-   <b>&#9776; GitHub Stats</b>
-  </samp>
- </summary>
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrp4sten&show_icons=true&theme=blue-green"> 
- </div>
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrp4sten&layout=donut&theme=blue-green&langs_count=20"> 
- </div>
-</details>
+ <p>
+ Passionate about <b>clean code</b>, agile practices, and knowledge sharing.  
+ Background: from Computer Technician (2019) → Senior IT Technician (2021) → Software Engineer (2023).  
+ Now focused on evolving into a Senior Full-Stack Developer while contributing to open source and mentoring devs.  
+ </p>
+
+ <p>
+ "Driven by innovation and efficiency, I aim to build scalable solutions  
+ and empower others in tech through collaboration and teaching."  
+ </p>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrp4sten&show_icons=true&theme=shadow_red"> 
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrp4sten&layout=compact&theme=shadow_red&langs_count=50"> 
+</div>
