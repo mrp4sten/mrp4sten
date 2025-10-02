@@ -9,7 +9,7 @@
 
 <!-- contribution snake -->
 <p align="center">
-    <img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/1amSimp1e/1amSimp1e/544749532955a2438af7a7934a17731aa0ea1b43/github-contribution-grid-snake.svg" />
+    <img alt="contribution 3d graph" width="80%" src="./profile-3d-contrib/profile-night-view.svg" />
 </p>
 
 ## 🛠️ Tech Stack
@@ -84,8 +84,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrp4sten&show_icons=true&theme=shadow_red"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=mrp4sten&show_icons=true&theme=shadow_red">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrp4sten&layout=compact&theme=shadow_red&langs_count=50"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrp4sten&layout=compact&theme=shadow_red&langs_count=50">
 </div>
