@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Mauricio Pastén (MrP4sten) 🚀</h1>
+<h1 align="center">🚀 Mauricio Pastén (@mrp4sten) 🚀</h1>
 
 <p align="center">
   <samp>
