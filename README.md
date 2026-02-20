@@ -29,9 +29,11 @@
 <div align="center">
   <img alt="contribution 3d graph" width="80%" src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </div>  
+<!--
 <div align="center">
   <img alt="top programming languages" src=https://github-readme-stats.vercel.app/api?username=mrp4sten&show_icons=true&theme=shadow_red&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true>
 </div>
+-->
 
 ## 🛠️ Tech Stack
 
@@ -60,9 +62,11 @@
 
 </br>
 
+<!--
 <div align="center">
   <img alt="top programming languages" src=https://github-readme-stats.vercel.app/api/top-langs/?username=mrp4sten&layout=donut-vertical&theme=shadow_red&langs_count=50>
 </div>
+-->
 
 </br>
 
