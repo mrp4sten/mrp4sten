@@ -74,7 +74,7 @@
 
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats-mrp4sten.vercel.app/?username=mrp4sten&theme=shadow-red&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="GitHub Streak" height="200px"/>
+  <img src="https://github-readme-streak-stats-mrp4sten.vercel.app/api?username=mrp4sten&theme=shadow-red&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="GitHub Streak" height="200px"/>
 </div>
 
 
