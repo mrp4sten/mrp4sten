@@ -60,20 +60,28 @@
 [![Mockito](https://img.shields.io/badge/Mockito-8B0000?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117)]()
 [![Git](https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)]()
 
-</br>
+---
 
-<div align="center">
-  <img alt="top programming languages" src=https://github-readme-stats-mrp4sten.vercel.app/api/top-langs/?username=mrp4sten&layout=donut-vertical&theme=shadow_red&langs_count=50>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mrp4sten.vercel.app/api?username=mrp4sten&show_icons=true&count_private=true&theme=shadow_red">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-mrp4sten.vercel.app/api?username=mrp4sten&show_icons=true&count_private=true&theme=shadow_red">
+    <img alt="GitHub Stats" src="https://github-readme-stats-mrp4sten.app/api?username=mrp4sten&show_icons=true&count_private=true&theme=shadow_red" height="200px">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mrp4sten.vercel.app/api/top-langs/?username=mrp4sten&layout=compact&langs_count=8&theme=shadow_red">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-mrp4sten.app/api/top-langs/?username=mrp4sten&layout=compact&langs_count=8&theme=default">
+    <img alt="Top Languages" src="https://github-readme-stats-mrp4sten.vercel.app/api/top-langs/?username=mrp4sten&layout=compact&langs_count=8&theme=shadow_red" height="200px">
+  </picture>
 </div>
 
-</br>
+---
 
 ## 🌎 Find me at
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mauricio_Pasten-8B0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/mauricio-pasten-1b7a0a198/)
 [![Instagram](https://img.shields.io/badge/Instagram-@mrp4sten-8B0000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://www.instagram.com/mrp4sten/)
 [![X](https://img.shields.io/badge/X-@MrP4sten-8B0000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117)](https://twitter.com/MrP4sten)
-
-</br>
 
 <img width="100%" src="https://capsule-render-mrp4sten.vercel.app/api?type=waving&height=100&color=ff0000&fontColor=ffffff&textBg=false&animation=twinkling&section=footer"/>
