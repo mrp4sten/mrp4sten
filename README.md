@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ff0000&text=Hi,%20Im%20mrp4sten&fontColor=ffffff&textBg=false&animation=twinkling&desc=SE%20-%20Systems%20-%20How%20does%20this%20work?" width="100%" alt="header"/>
+  <img src="https://capsule-render-mrp4sten.vercel.app/api?type=waving&height=300&color=ff0000&text=Hi,%20Im%20mrp4sten&fontColor=ffffff&textBg=false&animation=twinkling&desc=SE%20-%20Systems%20-%20How%20does%20this%20work?" width="100%" alt="header"/>
 </p>
 
 <div align="center">
@@ -80,4 +80,4 @@
 
 </br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff0000&fontColor=ffffff&textBg=false&animation=twinkling&section=footer"/>
+<img width="100%" src="https://capsule-render-mrp4sten.vercel.app/api?type=waving&height=100&color=ff0000&fontColor=ffffff&textBg=false&animation=twinkling&section=footer"/>
