@@ -1,27 +1,28 @@
 <h1 align="center"> Mauricio Pastén (@mrp4sten) 🚀</h1>
 
-<p align="center">
+<div align="center">
   <samp>
-    <b>Swiss Army Knife Engineer</b> — Full-Stack polyglot (Java/React/Python/NodeJS/Bash/GCP)<br>
-    <b>Turning ambiguity into scalable solutions</b><br>
+    <b>Full-Stack Engineer who learns by asking "how does this actually work?"</b><br>
+    Not by memorizing syntax.
   </samp>
-</p>
+</div>
 
 <div align="center">
  <p>
- <b>“Swiss Army Knife Engineer”</b> — Full-Stack polyglot (Java · React · Python · NodeJS · Bash · GCP).  
- Elite troubleshooter, turning ambiguity into scalable solutions.
+ I'm the guy who shuts up, investigates, and solves the problem.<br>
+ And when I can't? I'm humble enough to ask for help.
  </p>
  <p>
- I don’t just learn technologies — I <b>weaponize them</b>. Whether it’s debugging critical systems,
- automating infra, or shipping clean code fast, I adapt, deliver, and share knowledge along the way.
+ <b>Core:</b> Java · Spring Boot · React · GCP · PostgreSQL · Keycloak<br>
+ <b>Also shipped with:</b> Docker · Cypress · HAPI FHIR · Groovy · Go · Python · CI/CD · Cloud Functions
  </p>
  <p>
- Passionate about <b>clean code</b>, agile practices, and knowledge sharing. Background: Computer Technician (2019) → Senior IT Technician (2021) → Software Engineer (2023).  
- Now focused on evolving into a Senior Full-Stack Developer while contributing to open source and mentoring devs.
+ Computer Technician (2019) → IT Technician (2021) → Software Engineer (2023)<br>
+ <b>Now seeking:</b> Senior Full-Stack roles (remote only)
  </p>
  <p>
- "Driven by innovation and efficiency, I aim to build scalable solutions and empower others in tech through collaboration and teaching."
+ <i>I don't build my career on buzzwords. I build it on understanding systems.<br>
+ And yeah, I still check the docs. That's called engineering, not Googling.</i>
  </p>
 </div>
 
