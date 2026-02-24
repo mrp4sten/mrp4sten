@@ -1,4 +1,6 @@
-<h1 align="center"> Mauricio Pastén (@mrp4sten) 🚀</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ff0000&text=Hi,%20Im%20mrp4sten&fontColor=ffffff&textBg=false&animation=twinkling&desc=SE%20-%20Systems%20-%20How%20does%20this%20work?" width="100%" alt="header"/>
+</p>
 
 <div align="center">
   <samp>
@@ -22,17 +24,17 @@
  </p>
 </div>
 
-<!-- contribution snake / 3D graph -->
+<!--
 <div align="center">
   <img alt="contribution 3d graph" width="80%" src="./profile-3d-contrib/profile-night-rainbow.svg" />
-</div>  
-<!--
+</div>
+
 <div align="center">
   <img alt="top programming languages" src=https://github-readme-stats.vercel.app/api?username=mrp4sten&show_icons=true&theme=shadow_red&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true>
 </div>
 -->
 
-## 🛠️ Tech Stack
+## 🛠️ What I Actually Use
 
 ### Core (Day-to-day)
 [![Java](https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)]()
@@ -77,3 +79,5 @@
 [![X](https://img.shields.io/badge/X-@MrP4sten-8B0000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117)](https://twitter.com/MrP4sten)
 
 </br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff0000&fontColor=ffffff&textBg=false&animation=twinkling&section=footer"/>
