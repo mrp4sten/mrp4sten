@@ -28,10 +28,6 @@
 <!--   <img alt="contribution 3d graph" width="80%" src="./profile-3d-contrib/profile-night-rainbow.svg" /> -->
 <!-- </div> -->
 
-<div align="center">
-  <img alt="top programming languages" src=https://github-readme-stats-mrp4sten.vercel.app/api?username=mrp4sten&show_icons=true&theme=shadow_red&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true>
-</div>
-
 ## 🛠️ What I Actually Use
 
 ### Core (Day-to-day)
@@ -74,6 +70,11 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-mrp4sten.app/api/top-langs/?username=mrp4sten&layout=compact&langs_count=8&theme=default">
     <img alt="Top Languages" src="https://github-readme-stats-mrp4sten.vercel.app/api/top-langs/?username=mrp4sten&layout=compact&langs_count=8&theme=shadow_red" height="200px">
   </picture>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats-mrp4sten.vercel.app/api/?user=mrp4sten&theme=shadow_red&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="GitHub Streak" height="200px"/>
 </div>
 
 ---
