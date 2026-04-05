@@ -58,6 +58,7 @@
 
 ---
 
+<!--
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mrp4sten.vercel.app/api?username=mrp4sten&show_icons=true&count_private=true&theme=shadow_red">
@@ -71,6 +72,7 @@
     <img alt="Top Languages" src="https://github-readme-stats-mrp4sten.vercel.app/api/top-langs/?username=mrp4sten&layout=compact&langs_count=8&theme=shadow_red" height="200px">
   </picture>
 </div>
+-->
 
 <div align="center">
   <br>
