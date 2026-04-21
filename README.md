@@ -16,7 +16,7 @@
  </p>
  <p>
  Computer Technician (2019) → IT Technician (2021) → Software Engineer (2023)<br>
- <b>Now seeking:</b> Senior Full-Stack roles (remote only)
+ <b>I'm Full-Stack Engineer</b> Question. Create. Code. Will to Power.
  </p>
  <p>
  <i>I don't build my career on buzzwords. I build it on understanding systems.<br>
